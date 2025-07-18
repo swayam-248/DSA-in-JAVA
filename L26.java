@@ -16,7 +16,7 @@ public class L26 {
         System.out.println("k = " + k);
         System.out.print("Updated nums: ");
         for (int i = 0; i < k; i++) {
-            System.out.print(nums[i] + " ");
+            System.out.print(nums[i] + "  ");
         }
     }
 }
